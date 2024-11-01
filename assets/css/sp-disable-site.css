@@ -1,0 +1,38 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.spdp86{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    background: url('../imgs/bg.jpg') no-repeat 50% 50% / cover;
+}    
+
+.spdp86_wrapp{
+	width: 400px;
+    border: 1px solid #ffffff;
+    padding: 50px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.spdp86 h1{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    color: #3e3e3e;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.spdp86 p{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+}
